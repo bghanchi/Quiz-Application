@@ -1,0 +1,156 @@
+.well
+{
+ //padding-top:50px;
+  font-size:20px;
+  text-align:center;
+ color:black;
+ //margin-left:500px;
+ //position:absolute;
+ margin-top:60px;
+  witdh:100px;
+//  height:300px;
+border:1px solid black;
+margin-left:500px;
+margin-right:500px;
+height:30px;
+background-color:#00BFFF;
+}
+h3
+{
+    height:30px;
+ padding-top:0px;
+ margin-top:0px;
+  font-size:20px;
+  text-align:center;
+  color:black;
+ //margin-left:500px;
+ //position:absolute;
+ border:1px solid black;
+ margin-left:500px;
+ margin-right:500px;
+ background-color:#00BFFF;
+
+}
+
+
+.list-group
+{
+    list-style: none;
+    color:black;
+   //font-size:40px;
+   text-align:center;
+   padding:10px;
+   margin-left:0px;
+   margin-right:0px;
+ // border:1px solid black;
+  //display:block;
+}
+.list-group:hover{
+    display:block;
+    //color:blue;
+    
+}
+.hee
+{
+    //width: 100%;
+    //height: 30%;
+    
+   margin:80px;
+    font-size:30px;
+    text-align:center;
+   color:purple;
+ // background: lightblue;  
+ //magring-top:30px;
+ padding-top:50px;
+}
+
+.hip:hover
+{
+    display:block;
+  //  color:blue;
+}
+
+a{
+    color:black;
+}
+a:hover
+{
+    //display:block;
+    color:linear-gradient(#bfff00,#40ff00,#00ff80);
+    font-size:40px;
+    text-decoration:underline;
+}
+.list-group-item
+{
+    border:1px solid black;
+   padding:20px; 
+   margin-left:300px;
+  margin-right:300px;
+  background-color:rgb(135, 217, 245) ;
+ }
+.list-group-item:hover
+{
+    text-decoration:underline;
+    font-style: italic;   
+    // display:block;
+    // color:blue;
+    
+}
+
+    .hip
+    {  //padding-bottom:200px;
+        //padding-left:200px;
+        text-align:center;
+        //width: 100px;
+        //height: 100px;
+    //    background-color: blueviolet;
+        position: relative;
+       border:1px solid black;
+       border-radius:2px;
+       background-color:rgb(135, 217, 245);   
+      border-color:rgb(135, 217, 245);
+      color:black;
+     }
+    
+    
+.u
+{
+    margin-left:450px;
+    text-align:center;
+    width: 400px;
+    height: 40px;
+    color:black;
+    background-color:#00BFFF ;
+      border-radius:4px;
+}
+.u:hover
+{
+   // background-color:#bf00ff;
+}
+
+
+    .ppl
+    {
+        background-image: url("ima.jpg");
+    //background-color: #cccccc;
+    }
+
+
+
+    .imma
+    {
+        padding:100px;
+        margin:20px;
+    }
+ h3:hover
+ {
+      color: yellow;
+     font-style:italic;
+     display:block;      
+}
+input
+{
+    border: 0px;
+    width: 5%;
+    height: 1.1em;
+}
